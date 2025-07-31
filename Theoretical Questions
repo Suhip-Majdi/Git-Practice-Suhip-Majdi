@@ -27,3 +27,7 @@ Clone Your Fork: Clone your forked repository to your local machine using Git.
 Create a New Branch: Create a new branch for your specific contribution to keep your changes isolated and organized.
 Make Your Changes: Implement the desired features, bug fixes, or improvements within your local branch.
 Commit Your Changes: Stage and commit your changes with clear and concise commit messages
+Push Your Branch: Push your new branch and its commits to your forked repository on GitHub.
+Open a Pull Request:On GitHub, navigate to your forked repository and open a pull request. This initiates a request to merge your changes from your branch into the original project's main branch. Provide a detailed description of your contribution in the pull request.
+Address Feedback and Collaborate:Project maintainers may review your pull request and provide feedback or request modifications. Respond to comments, make necessary adjustments, and push updated commits to your branch.
+Merge or Close: Once your changes are approved, the maintainers will merge your pull request into the main project. If your contribution is not accepted, the pull request may be closed.
