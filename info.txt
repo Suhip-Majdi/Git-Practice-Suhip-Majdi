@@ -1,0 +1,3 @@
+My name is Suhip Majdi.
+I’m a data science and AI graduate.
+I enjoy working with machine learning and big data tools.
