@@ -8,3 +8,4 @@ This repository is for practicing Git and GitHub workflows.
 3. Created `feature/info` branch and added `info.txt`
 4. Merged `feature/info` into `master`
 5. Pushed all changes to GitHub
+Update README with task summary
